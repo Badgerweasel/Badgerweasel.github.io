@@ -9718,7 +9718,7 @@ a.text-dark:hover, a.text-dark:focus {
   width: 15rem;
 }
 
-.masthead .masthead-grid {
+.masthead-grid {
 	font-size: 2.75rem;
 	line-height: 2.75rem;
 	padding-top: 6rem;
@@ -9737,12 +9737,6 @@ a.text-dark:hover, a.text-dark:focus {
   .masthead .masthead-subheading {
     font-size: 1.5rem;
   }
-  .masthead .masthead-grid {
-	font-size: 2.75rem;
-	line-height: 2.75rem;
-	padding-top: 6rem;
-	padding-bottom:6rem;
-}
 }
 
 
